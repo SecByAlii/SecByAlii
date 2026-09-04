@@ -26,7 +26,7 @@ I'm a full-time **data analyst** working toward a **bachelor's degree in cyberse
 | Project | What it is |
 |---|---|
 | [landscaping-crm-prototype](https://github.com/SecByAlii/landscaping-crm-prototype) | Proof-of-concept CRM — customer management, crew scheduling, bidding, invoicing, automated review requests |
-| `home-lab-soc` | *In progress* — Splunk + simulated attacks + MITRE-mapped detections |
+| [home-lab-soc](https://github.com/SecByAlii/home-lab-soc) | *In progress* — Splunk SIEM + simulated attacks mapped to MITRE ATT&CK |
 
 ---
 
