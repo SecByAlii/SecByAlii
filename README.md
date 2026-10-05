@@ -15,6 +15,7 @@
 I'm a full-time **data analyst** working toward a **bachelor's degree in cybersecurity** — I like taking things apart to see how they break, then figuring out how to catch it next time.
 
 - 🔭 Built a **home-lab SOC** — 8 attacker techniques simulated and detected in Splunk, MITRE ATT&CK-mapped, rolled up into scored incidents. Now extending the coverage.
+- 🏥 Wrote a full **HIPAA Security Rule risk assessment** for a (fictional) eye practice: 20 risks scored NIST-style, a patient-safety risk most assessments miss, and a fix plan where the first 30 days cost about $0. Seven years inside eye clinics means I know where patient data actually leaks.
 - 🌱 Working through my cybersecurity coursework, one lab at a time
 - 💻 Day job: turning messy data into decisions people actually act on
 - 🐛 Also run the tech side of a small woodworking business — because apparently one skillset was never enough
@@ -26,6 +27,7 @@ I'm a full-time **data analyst** working toward a **bachelor's degree in cyberse
 | Project | What it is |
 |---|---|
 | [home-lab-soc](https://github.com/SecByAlii/home-lab-soc) | Detection lab — 8 attacker techniques run against a Linux host, a tuned Splunk detection for each (MITRE ATT&CK-mapped, with documented false positives), a session-level correlation layer, and a dashboard. [Writeup.](https://github.com/SecByAlii/home-lab-soc/blob/main/WRITEUP.md) |
+| [hipaa-risk-assessment](https://github.com/SecByAlii/hipaa-risk-assessment) | GRC: a HIPAA Security Rule risk analysis for a 3-provider eye practice. Asset inventory, 20 threat/vulnerability pairs, a NIST SP 800-30 risk register, a phased remediation plan, and a one-page [executive summary](https://github.com/SecByAlii/hipaa-risk-assessment/blob/main/06-executive-summary.md). |
 | [landscaping-crm-prototype](https://github.com/SecByAlii/landscaping-crm-prototype) | Proof-of-concept CRM — customer management, crew scheduling, bidding, invoicing, automated review requests |
 
 ---
