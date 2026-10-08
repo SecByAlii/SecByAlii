@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/swamp-gator-header.gif" alt="SecByAlii — Digital Forensics and Incident Response" width="100%"/>
+<img src="assets/swamp-chomp-header.gif" alt="SecByAlii — Digital Forensics and Incident Response" width="100%"/>
 
 <a href="https://github.com/SecByAlii">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3DA9C9&center=true&vCenter=true&width=680&lines=When+something+gets+breached%2C+I+find+out+how.;Detect.+Investigate.+Contain.+Prevent.;The+attacker+always+leaves+a+trail.;Data+analyst+by+day.+DFIR+by+build." alt="Typing SVG" />
