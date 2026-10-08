@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e27,50:14323b,100:2c5364&height=230&section=header&text=SecByAlii&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Digital%20Forensics%20and%20Incident%20Response&descSize=20&descAlignY=58" width="100%"/>
+<img src="assets/header.gif" alt="SecByAlii — Digital Forensics and Incident Response" width="100%"/>
 
 <a href="https://github.com/SecByAlii">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3DA9C9&center=true&vCenter=true&width=680&lines=When+something+gets+breached%2C+I+find+out+how.;Detect.+Investigate.+Contain.+Prevent.;The+attacker+always+leaves+a+trail.;Data+analyst+by+day.+DFIR+by+build." alt="Typing SVG" />
