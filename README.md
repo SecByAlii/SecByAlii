@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=SecByAlii&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Breaking%20things%20on%20purpose%20so%20they%20stop%20breaking%20by%20accident&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e27,50:14323b,100:2c5364&height=230&section=header&text=SecByAlii&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Digital%20Forensics%20%26%20Incident%20Response&descSize=20&descAlignY=58" width="100%"/>
 
 <a href="https://github.com/SecByAlii">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Data+Analyst+by+trade.;Future+cybersecurity+pro+in+progress.;Built+a+home-lab+SOC+in+Splunk.;Detect+first.+Ask+questions+never." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3DA9C9&center=true&vCenter=true&width=680&lines=When+something+gets+breached%2C+I+find+out+how.;Detect.+Investigate.+Contain.+Prevent.;The+attacker+always+leaves+a+trail.;Data+analyst+by+day.+DFIR+by+build." alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,7 +14,8 @@
 
 I'm a full-time **data analyst** working toward a **bachelor's degree in cybersecurity** — I like taking things apart to see how they break, then figuring out how to catch it next time.
 
-- 🔭 Built a **home-lab SOC** — 8 attacker techniques simulated and detected in Splunk, MITRE ATT&CK-mapped, rolled up into scored incidents. Now extending the coverage.
+- 🔎 **Investigated a breach, start to finish** — ran a credential-based intrusion on my own lab, then worked it like a real incident: reconstructed the attacker's every move from the logs, found root cause, and wrote the client report. DFIR is the work I want to do.
+- 🔭 Built a **home-lab SOC** — 15 attacker techniques across Linux and Windows, detected in Splunk, MITRE ATT&CK-mapped and rolled into scored incidents.
 - 🏥 Wrote a full **HIPAA Security Rule risk assessment** for a (fictional) eye practice: 20 risks scored NIST-style, a patient-safety risk most assessments miss, and a fix plan where the first 30 days cost about $0. Seven years inside eye clinics means I know where patient data actually leaks.
 - 🌱 Working through my cybersecurity coursework, one lab at a time
 - 💻 Day job: turning messy data into decisions people actually act on
@@ -26,7 +27,8 @@ I'm a full-time **data analyst** working toward a **bachelor's degree in cyberse
 
 | Project | What it is |
 |---|---|
-| [home-lab-soc](https://github.com/SecByAlii/home-lab-soc) | Detection lab — 8 attacker techniques run against a Linux host, a tuned Splunk detection for each (MITRE ATT&CK-mapped, with documented false positives), a session-level correlation layer, and a dashboard. [Writeup.](https://github.com/SecByAlii/home-lab-soc/blob/main/WRITEUP.md) |
+| [incident-report-01](https://github.com/SecByAlii/incident-report-01) | **DFIR** — a full investigation of a simulated Windows breach: timeline reconstruction, forensic artifacts, root-cause analysis, and a client-ready report, backed by Splunk evidence. The investigation side of the home-lab-soc detections. |
+| [home-lab-soc](https://github.com/SecByAlii/home-lab-soc) | Detection lab — 15 attacker techniques across Linux and Windows hosts, a tuned Splunk detection for each (MITRE ATT&CK-mapped, with documented false positives), a session-level correlation layer, and a dashboard. [Writeup.](https://github.com/SecByAlii/home-lab-soc/blob/main/WRITEUP.md) |
 | [hipaa-risk-assessment](https://github.com/SecByAlii/hipaa-risk-assessment) | GRC: a HIPAA Security Rule risk analysis for a 3-provider eye practice. Asset inventory, 20 threat/vulnerability pairs, a NIST SP 800-30 risk register, a phased remediation plan, and a one-page [executive summary](https://github.com/SecByAlii/hipaa-risk-assessment/blob/main/06-executive-summary.md). |
 | [landscaping-crm-prototype](https://github.com/SecByAlii/landscaping-crm-prototype) | Proof-of-concept CRM — customer management, crew scheduling, bidding, invoicing, automated review requests |
 
