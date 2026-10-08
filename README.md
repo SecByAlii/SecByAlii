@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/swamp-chomp-header.gif" alt="SecByAlii — Digital Forensics and Incident Response" width="100%"/>
+<img src="assets/swamp-space-header.gif" alt="SecByAlii — Digital Forensics and Incident Response" width="100%"/>
 
 <a href="https://github.com/SecByAlii">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3DA9C9&center=true&vCenter=true&width=680&lines=When+something+gets+breached%2C+I+find+out+how.;Detect.+Investigate.+Contain.+Prevent.;The+attacker+always+leaves+a+trail.;Data+analyst+by+day.+DFIR+by+build." alt="Typing SVG" />
@@ -12,8 +12,9 @@
 
 ### 👋 About me
 
-I'm a full-time **data analyst** working toward a **bachelor's degree in cybersecurity** — I like taking things apart to see how they break, then figuring out how to catch it next time.
+I'm a full-time **data analyst** working toward a **B.S. in cybersecurity** — I learn by taking things apart to see how they break, then figuring out how to catch it next time.
 
+- 🚀 **The goal: securing space operations.** The systems and ground infrastructure behind the missions — at an organization like **NASA** or **Lockheed Martin**. That's what I'm building toward, one project (and a NASA internship) at a time.
 - 🔎 **Investigated a breach, start to finish** — ran a credential-based intrusion on my own lab, then worked it like a real incident: reconstructed the attacker's every move from the logs, found root cause, and wrote the client report. DFIR is the work I want to do.
 - 🔭 Built a **home-lab SOC** — 15 attacker techniques across Linux and Windows, detected in Splunk, MITRE ATT&CK-mapped and rolled into scored incidents.
 - 🏥 Wrote a full **HIPAA Security Rule risk assessment** for a (fictional) eye practice: 20 risks scored NIST-style, a patient-safety risk most assessments miss, and a fix plan where the first 30 days cost about $0. Seven years inside eye clinics means I know where patient data actually leaks.
